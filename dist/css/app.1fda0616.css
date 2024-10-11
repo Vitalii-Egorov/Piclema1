@@ -1,0 +1,1 @@
+.container{margin:20px}ul{flex-direction:column-reverse}li,ul{display:flex}li{justify-content:space-between;list-style:none;margin-bottom:10px;padding:10px;border:1px solid #ccc;border-radius:5px}.completed{text-decoration:line-through;color:red}
